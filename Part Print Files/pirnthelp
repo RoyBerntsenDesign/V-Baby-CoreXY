@@ -1,0 +1,5 @@
+Suffix Explanation:
+Example
+- Filename_1x_SN_BN = 1x of this part, Support NO, Brim NO
+- Filename_2x_SA_BY = 2x of this part, Support ALL, Brim YES
+- Filename_3x_SB_BO = 3x of this part, Support BUILDPLATE, Brim OPTIONAL
