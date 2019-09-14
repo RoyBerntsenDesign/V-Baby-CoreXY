@@ -1,5 +1,5 @@
 # V-Baby CoreXY 3d Printer
-The non rod CoreXY V-Slot 3d Printer by Roy Berntsen
+The All Belt - Linear Guided - CoreXY V-Slot 3d Printer by Roy Berntsen
 
 In this repository you will find the print files, source files and documentation for the V-Baby 3D printer. If you are missing a part or information of feel free to file an issue on github
 
