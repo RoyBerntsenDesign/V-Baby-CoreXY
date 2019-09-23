@@ -1,7 +1,9 @@
 Baby CoreXY
 
-WIP - 3d model for viewing
-https://a360.co/2HL3ymz 
+3d model for view and download
+Base Frame: https://a360.co/2JDFsLQ
+Bed Frame: https://a360.co/32FCPRl 
+X Axis Assembly: https://a360.co/2Z9gJV9 
 
-Pswd: 
-Valkyrie-1907
+Optional:
+Bottom Enclosure: https://a360.co/2GyqG7i
