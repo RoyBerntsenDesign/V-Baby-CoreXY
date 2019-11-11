@@ -16,11 +16,8 @@ CC-by-NC: http://creativecommons.org/licenses/by-nc/3.0/
 
 Roy Berntsen - Research and Development
 
-3d Model - Link: https://a360.co/2Mfyn5Z - View problems
-Use these:
+3d model for view and download
 Base Frame: https://a360.co/2JDFsLQ
-X Axis: https://a360.co/2Z9gJV9
-Bed Frame: https://a360.co/32FCPRl
-Electronic Enclosure: https://a360.co/2GyqG7i
-
-pswd: Valkyrie-1907
+Bed Frame: https://a360.co/32FCPRl 
+X Axis Assembly: https://a360.co/2Z9gJV9 
+Bottom Enclosure: https://a360.co/2GyqG7i
