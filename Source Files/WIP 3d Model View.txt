@@ -4,6 +4,4 @@ Baby CoreXY
 Base Frame: https://a360.co/2JDFsLQ
 Bed Frame: https://a360.co/32FCPRl 
 X Axis Assembly: https://a360.co/2Z9gJV9 
-
-Optional:
 Bottom Enclosure: https://a360.co/2GyqG7i
