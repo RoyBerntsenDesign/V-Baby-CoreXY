@@ -19,4 +19,4 @@ Roy Berntsen - Research and Development
 3d model for view and download
 Top Assembly: https://a360.co/387NLc7
 
-Bottom Enclosure: https://a360.co/2GyqG7i
+Bottom Enclosure: https://a360.co/2taZnMT 
