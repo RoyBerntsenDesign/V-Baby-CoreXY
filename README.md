@@ -17,9 +17,9 @@ CC-by-NC: http://creativecommons.org/licenses/by-nc/3.0/
 Roy Berntsen - Research and Development
 
 3d model for view and download
-Top Assembly: https://a360.co/2tdJS6j 
+Top Assembly: https://a360.co/387NLc7
 
-Base Frame: https://a360.co/2JDFsLQ
-Bed Frame: https://a360.co/32FCPRl 
-X Axis Assembly: https://a360.co/2Z9gJV9 
-Bottom Enclosure: https://a360.co/2GyqG7i
+X-Axis Assy: https://a360.co/35WfcV1
+Bed Frame Assy: https://a360.co/2NvSfSe
+Base Frame: https://a360.co/38cXJcl
+Bottom Enclosure: https://a360.co/2taZnMT 
