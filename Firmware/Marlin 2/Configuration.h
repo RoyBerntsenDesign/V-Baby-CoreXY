@@ -702,7 +702,7 @@
  * Override with M92
  *                                      X, Y, Z, E0 [, E1[, E2...]]
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 2756, 406 }
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 4960, 406 }		//For 30:1 Z drive (it is 31:1 but says 30:1) - use 2756 for the 17:1
 
 /**
  * Default Max Feed Rate (mm/s)
