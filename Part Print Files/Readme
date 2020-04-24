@@ -1,3 +1,13 @@
+Slicer Recomendations
+Material: PETG or similar as is more durable than PLA
+
+Walls:      2 mm Shell
+Bottom/Top: 2 mm shell at 0.25 layer height
+Infill:		25% - 100%
+
+You do need a good calibrated extruder as parts are tight so check your flow
+All parts are modeled with tolerance to fit
+
 Suffix Explanation:
 Example
 - Filename_1x_SN_BN_100% = 1x of this part, Support NO, Brim NO, Infill 100%
