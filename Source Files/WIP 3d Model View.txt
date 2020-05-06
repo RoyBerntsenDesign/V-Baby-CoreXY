@@ -1,7 +1,4 @@
 Baby CoreXY
 
 3d model for view and download
-Base Frame: https://a360.co/2JDFsLQ
-Bed Frame: https://a360.co/32FCPRl 
-X Axis Assembly: https://a360.co/2Z9gJV9 
-Bottom Enclosure: https://a360.co/2GyqG7i
+https://a360.co/387NLc7
