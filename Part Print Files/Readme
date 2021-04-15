@@ -4,16 +4,15 @@ Material: PETG or similar as is more durable than PLA
 Walls:      2 mm Shell
 Bottom/Top: 2 mm shell
 Layer Height: (Anything adding up in 1mm)
-0.10
 0.20
 0.25
-Infill:		25%
+Infill: 20-25%
 
 You do need a good calibrated extruder as parts are tight so check your flow
 All parts are modeled with tolerance to fit
 
 Suffix Explanation:
 Example
-- Filename_1x_SN_BN = 1x of this part, Support NO, Brim NO, Infill 25%
-- Filename_2x_SA_BY_30 = 2x of this part, Support ALL, Brim YES, Infill 30%
-- Filename_3x_SB_BO_50 = 3x of this part, Support BUILDPLATE, Brim OPTIONAL, Infill 50%
+- Filename_1x_SN_BN = 1x of this part, Support NO, Brim NO
+- Filename_2x_SA_BY_30 = 2x of this part, Support ALL, Brim YES
+- Filename_3x_SB_BO_50 = 3x of this part, Support BUILDPLATE, Brim OPTIONAL

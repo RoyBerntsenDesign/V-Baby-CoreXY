@@ -1,0 +1,27 @@
+Slicer Recomendations
+Material: CPE, ABS, PETG or similar as is more durable than PLA
+
+Walls:      3 mm Shell
+Bottom/Top: 2 mm shell
+
+Wall Line Width (Cura): 0.5 mm
+Extrusion width (Prusa Slicer): 0.56 mm
+Layer Height:
+0.20
+0.25
+Infill:	Print this model solid with 6 mm vertical shells and 4mm horizontal shell
+
+You do need a good calibrated extruder as parts are tight so check your flow
+All parts are modeled with tolerance to fit
+
+Suffix Explanation:
+Example
+- Filename_1x_SN_BN = 1x of this part, Support NO, Brim NO
+
+BOM:
+1x GT2 Pulley Gear - Bore Diameter: 2GT (20T- 60T-200mm): https://s.click.aliexpress.com/e/_A5RlCO
+2x Bearings: (1x4 pack) https://s.click.aliexpress.com/e/_99LvP8
+1x NEMA 17 Stepper Motor: https://s.click.aliexpress.com/e/_9RXjoI
+
+Option - Electric Braked Stepper: https://s.click.aliexpress.com/e/_9ibpRk
+
