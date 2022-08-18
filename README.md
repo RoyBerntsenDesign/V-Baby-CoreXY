@@ -16,6 +16,6 @@ CC-by-NC: http://creativecommons.org/licenses/by-nc/3.0/
 Roy Berntsen - Research and Development
 
 3d model for view and download
-V1 Top Assembly: https://a360.co/3dTcFCD
+V1 Top Assembly: https://a360.co/3PA3aYa
 
 ![V-Baby 12 00](https://user-images.githubusercontent.com/32734385/114940861-af3d6a80-9e42-11eb-8877-3a647e611e11.png)
